@@ -1,6 +1,6 @@
 # Artisan Canvas: Multilingual AI Poster Creator
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/Artisan-20251021-135139)
 
 Artisan Canvas is a cutting-edge web application designed to empower users with the ability to create stunning, multilingual posters using advanced open-source AI models, Qwen-Image and Qwen-Image-Edit. This platform offers a comprehensive suite of tools, from robust media management to an intuitive AI-powered design assistant and a highly interactive canvas editor, all meticulously crafted with visual excellence and user experience at its core.
 
@@ -103,7 +103,7 @@ The chat API is powered by Cloudflare Agents (Durable Objects) and accessible th
 
 Artisan Canvas is designed for seamless deployment to Cloudflare Workers.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/Artisan-20251021-135139)
 
 1.  **Build the project**:
     ```bash
